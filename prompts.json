@@ -1,6 +1,10 @@
 [
     {
-        "act": "English Translator",
-        "prompt": "Suppose that you are now a sci paper writer. I need you to help me translate a paragraph of Chinese content into English while maintaining the academic style of translation.Before proceeding with the translation, I would like to emphasize that this translation must adhere to the academic standards and accuracy required for scholarly papers, and passive voice should be used whenever possible. Do you understand?"
+        "act": "English Translator1",
+        "prompt": "Suppose that you are now a sci paper writer. I need you to help me translate a paragraph of Chinese content into English while maintaining the academic style of translation."
+    },
+    {
+        "act": "English Translator2",
+        "prompt": "Before proceeding with the translation, I would like to emphasize that this translation must adhere to the academic standards and accuracy required for scholarly papers, and passive voice should be used whenever possible. Do you understand?"
     }
 ]
