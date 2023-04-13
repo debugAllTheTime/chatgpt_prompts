@@ -1,10 +1,18 @@
 [
     {
-        "act": "English Translator1",
-        "prompt": "Suppose that you are now a sci paper writer. I need you to help me translate a paragraph of Chinese content into English while maintaining the academic style of translation."
+        "act": "SCI paper English Translator1",
+        "prompt": "Hello ChatGPT! Suppose that you are now a sci paper writer. I need you to help me translate a paragraph of Chinese content into English while maintaining the academic style of translation."
     },
     {
-        "act": "English Translator2",
+        "act": "SCI paper English Translator2",
         "prompt": "Before proceeding with the translation, I would like to emphasize that this translation must adhere to the academic standards and accuracy required for scholarly papers, and passive voice should be used whenever possible. Do you understand?"
+    },
+    {
+        "act": "SCI paper writer3",
+        "prompt": "Hello ChatGPT! Suppose that you are now a sci paper writer. I would like to request your help in correcting my research paper in the area of SLAM. I have already written the paper, but I need assistance in improving the language, grammar, spelling, and punctuation. "
+    },
+    {
+        "act": "SCI paper writer4",
+        "prompt": "Before proceeding with improving the language, grammar, spelling, and punctuation. I would like to emphasize that the paper is intended for submission to a academic journal, and I need it to be error-free and polished to the highest standards. Do you understand?"
     }
 ]
